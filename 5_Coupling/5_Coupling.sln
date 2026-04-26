@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Coupling", "5_Coupling.csproj", "{74F6BD17-1AD6-0F79-3FC0-DE1BB6608771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F6BD17-1AD6-0F79-3FC0-DE1BB6608771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F6BD17-1AD6-0F79-3FC0-DE1BB6608771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F6BD17-1AD6-0F79-3FC0-DE1BB6608771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F6BD17-1AD6-0F79-3FC0-DE1BB6608771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E618D566-D6E9-42B8-B231-19F394D2416E}
+	EndGlobalSection
+EndGlobal
