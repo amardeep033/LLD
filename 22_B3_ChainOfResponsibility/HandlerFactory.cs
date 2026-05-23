@@ -12,3 +12,5 @@ namespace _22_B3_ChainOfResponsibility
         }
     }
 }
+
+//we have a factory for handler : returns interface

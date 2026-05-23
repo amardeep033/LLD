@@ -54,11 +54,23 @@ TemporaryDependencyNodeTargetIdentifier=net10.0
 /warnaserror+:NU1605,SYSLIB0011
 
 [sourceFiles]
+ATMInventory.cs
+ATMservice.cs
+Denomination.cs
+DenominationHandler.cs
+Facade.cs
+Factory.cs
+IATMMachine.cs
+IBankService.cs
+IDenominationHandler.cs
 obj/Debug/net10.0/
  .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
  25_Q3_ATMmachine.AssemblyInfo.cs
  25_Q3_ATMmachine.GlobalUsings.g.cs
 Program.cs
+Proxy.cs
+RealBankService.cs
+State.cs
 
 [metadataReferences]
 <DOTNET>/packs/Microsoft.NETCore.App.Ref/10.0.6/ref/net10.0/

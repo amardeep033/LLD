@@ -14,3 +14,5 @@ public class AuthorizationHandler : Handler
         return HandleNext(request);
     }
 }
+
+//each part of chain impl its own logic and then calls HandleNext
